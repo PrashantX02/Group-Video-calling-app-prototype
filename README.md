@@ -27,7 +27,7 @@ To get started with the project, follow the instructions below:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/YourRepositoryName.git
+    https://github.com/PrashantX02/Group-Video-calling-app-prototype.git
     ```
 2. Open the project in Android Studio.
 3. Configure your Firebase project and add the necessary configurations in the `google-services.json` file.
